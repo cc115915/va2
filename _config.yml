@@ -7,7 +7,7 @@ title:            Carrie C Myers - Virtual Assistant
 tagline:          
 description:      
 url:              cc115915.github.io
-baseurl:          '/va'
+baseurl:          /va2
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -19,7 +19,7 @@ author:
   url:            https://twitter.com/fongandrewc
 
 paginate:         1
-# paginate_path:    '/blog/page:num'
+# paginate_path:    'va2/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
@@ -48,7 +48,7 @@ defaults:
 
 # Sidebar link settings
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+# sidebar_blog_link:  'va2/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
