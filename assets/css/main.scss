@@ -3,4 +3,9 @@
 # only main files contain this front matter, not partials.
 ---
 
+@use "colors";
+@use "hydeout/variables" with (
+    $sidebar-bg-color: colors.$headshot_blue
+);
+
 @use "hydeout";
