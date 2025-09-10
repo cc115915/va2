@@ -5,7 +5,7 @@
 
 @use "colors";
 @use "hydeout/variables" with (
-    $sidebar-bg-color: colors.$headshot_blue
+    $sidebar-bg-color: colors.$headshot_blue,
 );
 
 @use "hydeout";
