@@ -15,8 +15,8 @@ baseurl:          /va2
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           
+  url:            
 
 paginate:         1
 # paginate_path:    'va2/blog/page:num'
